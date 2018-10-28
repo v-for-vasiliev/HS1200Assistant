@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/headset.png</file>
+        <file>images/acceptscreen.jpg</file>
+        <file>images/acceptscreen_1920_1200.jpg</file>
+    </qresource>
+</RCC>
